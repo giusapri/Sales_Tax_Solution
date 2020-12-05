@@ -1,4 +1,4 @@
-package it.bartolomeotiralongo.shoppingCart;
+package it.giuseppeaprile.shoppingCart;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;

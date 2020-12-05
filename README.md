@@ -1,5 +1,5 @@
 # Sales Taxes Problem
-The Sales Taxes Problem is an assignment which can be found and read below, in this repository there is my implementation and a fast JUnit tests integrated with Travis CI ([https://travis-ci.com/github/giusapri/Sales_Tax_Problem](https://travis-ci.com/github/giusapri/Sales_Tax_Problem))
+The Sales Taxes Problem is an assignment which can be found and read below, in this repository there is my implementation and a fast JUnit tests integrated with Travis CI ([https://travis-ci.com/github/giusapri/Sales_Tax_Solution](https://travis-ci.com/github/giusapri/Sales_Tax_Solution))
 
 ## Instruction
 The project is meant to run with hardcoded input within the JUnit test cases.

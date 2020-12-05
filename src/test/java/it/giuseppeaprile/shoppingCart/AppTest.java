@@ -6,9 +6,9 @@ import org.junit.Test;
 
 import it.giuseppeaprile.shoppingCart.entities.Order;
 import it.giuseppeaprile.shoppingCart.entities.ShoppingCart;
-import it.giuseppeaprile.shoppingCart.logic.CheckoutStrategy;
-import it.giuseppeaprile.shoppingCart.logic.OrderStringParser;
-import it.giuseppeaprile.shoppingCart.logic.TaxStrategy;
+import it.giuseppeaprile.shoppingCart.service.CheckoutStrategy;
+import it.giuseppeaprile.shoppingCart.service.OrderStringParser;
+import it.giuseppeaprile.shoppingCart.service.TaxStrategy;
 
 
 public class AppTest 
